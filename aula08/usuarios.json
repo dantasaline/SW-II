@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "nome": "Aline Dantas",
+        "email": "alinedantas@email.com"
+    },
+    {
+        "id": 2,
+        "nome": "Camila Trentino",
+        "email": "camistrentino@email.com"
+    },
+    {
+        "id": 3,
+        "nome": "Giulia Filippini",
+        "email": "giuufilippini@email.com"
+    },
+    {
+        "id": 4,
+        "nome": "Enzo Caetano",
+        "email": "peracioenzo@email.com"
+    }
+]
