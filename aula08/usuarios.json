@@ -6,17 +6,12 @@
     },
     {
         "id": 2,
-        "nome": "Camila Trentino",
-        "email": "camistrentino@email.com"
-    },
-    {
-        "id": 3,
-        "nome": "Giulia Filippini",
-        "email": "giuufilippini@email.com"
+        "nome": "Amanda Lima",
+        "email": "amandalima@email.com"
     },
     {
         "id": 4,
-        "nome": "Enzo Caetano",
-        "email": "peracioenzo@email.com"
+        "nome": "Isabely",
+        "email": "isaa123@email.com"
     }
 ]
